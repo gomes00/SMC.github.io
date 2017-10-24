@@ -37,6 +37,8 @@
  
 #menu ul li a {
 	color: #ba9b3e;
+	font-size: 15px;
+	font-weight: bold;
 	padding: 2px 10px;
 	float:left;
 }
@@ -47,7 +49,7 @@
 	border:solid 1px;
 	border-color: #ba9b3e;
 	border-radius:15px;
-	width:300px;
+	width:200px;
 }
 
 #txtBusca{
@@ -59,7 +61,7 @@
 	font-size:18px;
 	border:none;
 	height:32px;
-	width:260px;
+	width:160px;
 }
 
 #maisvendios h1{
